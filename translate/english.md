@@ -58,7 +58,7 @@ It is the reason that finally it has been reject, but the first place discussion
 As was also the accident of erroneous determination, it is a very powerful specification that can even be specified the entire site as a lie information.
 Far from April Fools, in the article article of lie you have outgoing daily, the site even at the site where the whole is claiming to be a fiction, things that no longer lie becomes a fact after occurs, of misinformation and apology, etc. in the site , has slipped to the fact of the article.
 From the fact that aprilfool.txt is (originally because it is not in the first place of the April Fools article is beyond the scope of the specification, but ...) that will not be used can be predicted and even in such sites, a number of opinion that aprilfool.txt's unnecessary became.
-"Some of the facts of the article is" <meta name = "aprilfool" content = "false"> "the may be specified," but there was also the opinion that, it was not enough to overturn the flow of reject.
+"Some of the facts of the article is"`<meta name = "aprilfool" content = "false">`"the may be specified," but there was also the opinion that, it was not enough to overturn the flow of reject.
 
 
 ## Why HTML 4.1 is not a HTML5.1 later?
